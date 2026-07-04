@@ -4,7 +4,7 @@ import Layout from "./components/Layout";
 import Dashboard from "./pages/Dashboard";
 import Profile from "./pages/Profile";
 import Login from "./pages/Login";
-import Signup from "./pages/Signup";
+import SignUp from "./pages/Signup";
 import Weather from "./pages/Weather";
 import Landing from "./pages/Landing";
 import Courses from "./pages/Courses";
